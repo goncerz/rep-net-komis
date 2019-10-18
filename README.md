@@ -1,1 +1,1 @@
-# rep-net-komis
+Przeglądanie ofert komisu samochodowego, dane samochodów pobierane z bazy danych MySQL
